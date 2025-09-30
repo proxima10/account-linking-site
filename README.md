@@ -1,1 +1,1 @@
-# account-linking-site
+account-linking
